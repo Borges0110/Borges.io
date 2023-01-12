@@ -1,7 +1,7 @@
 # Borges.io
 
 <h1 align="center">Hi 👋, I'm Andrey Borges</h1>
-<h3 align="center">Desenvolvedor Fron-End e, com foco até o momento em desenvolvimento de páginas web. Cursando Análise e Desenvolvimento de Sistemas, estou sempre em contínuo estudo para manter-me atualizado em novas tecnologias.</h3>
+<h3 align="center">Desenvolvedor Fron-End com foco até o momento em desenvolvimento de páginas web. Cursando Análise e Desenvolvimento de Sistemas, estou sempre em contínuo estudo para manter-me atualizado em novas tecnologias.</h3>
 
 - 🌱 I’m currently learning **HTML, CSS e JavaScript na DevMedia, faculdade e outros meios.**
 
